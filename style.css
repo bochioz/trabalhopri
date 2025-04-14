@@ -3,14 +3,14 @@ body{
     margin: 0 auto;
     border: 3px #000 solid;
     border-radius: 15px;
-    background-color: rgb(201, 36, 36);
+    background-color: rgb(214, 208, 208);
 }
 .menu{
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: rgb(228, 214, 214);
+    background-color: rgb(136, 59, 59);
 }
 .logo{
     max-width: 100px;
